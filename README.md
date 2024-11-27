@@ -1,2 +1,2 @@
 # dpdk-docker
-Here's dpdk in box.  A containerized and easy to deploy dpdk-in-box 
+Here's dpdk as a docker.  A containerized and easy to deploy dpdk-in-box 
